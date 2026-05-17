@@ -1,18 +1,18 @@
 # 🧱 Firewall Enterprise Lab — Corporate Network Security Simulation
 
 ## 📌 Technologies Used
-pfSense
-Windows Defender Firewall
-Wireshark
-VMware Workstation Pro
-Windows Server 2022 (optional for services simulation)
-Windows 11 Clients
-NAT / Internal Network / Host-Only Networking
-VLAN Concepts (logical segmentation)
-Firewall Rules (Stateful Inspection)
-NAT (Network Address Translation)
-Logging & Monitoring
-Basic IDS/IPS (optional with Suricata)
+- pfSense
+- Windows Defender Firewall
+- Wireshark
+- VMware Workstation Pro
+- Windows Server 2022 (optional for services simulation)
+- Windows 11 Clients
+- NAT / Internal Network / Host-Only Networking
+- VLAN Concepts (logical segmentation)
+- Firewall Rules (Stateful Inspection)
+- NAT (Network Address Translation)
+- Logging & Monitoring
+- Basic IDS/IPS (optional with Suricata)
 
 ---
 ## 🧾 1. Project Overview
